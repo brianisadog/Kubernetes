@@ -48,7 +48,7 @@
 - After the above settings are done, clone this repository to your main machine, edit the username and ip in scp.sh, and use it to copy files we need to K8s machines.
 
     ```shell
-    git clone https://github.com/brianisadog/Kubernetes.git
+    git clone https://github.com/ohbriansung/Kubernetes.git
     cd Kubernetes/
     nano scp.sh
     ./scp.sh
